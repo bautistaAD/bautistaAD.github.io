@@ -36,3 +36,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.intro-contents {
+    font-family:'Source Sans Pro'; 
+    font-size: 14px;
+    margin:0px;
+    line-height: 25px;
+}
+
+h1 {
+    margin: 0px;
+    font-family: 'Open Sans';
+}
