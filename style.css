@@ -48,3 +48,37 @@ h1 {
     margin: 0px;
     font-family: 'Open Sans';
 }
+
+.faves1, .faves2{
+    display: flex;
+    flex-direction: row;
+
+    justify-content:space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.section{
+    display:flex;
+    flex-direction: column;
+    width: 220px;
+}
+
+.introduction{
+    margin-bottom: 20px;
+}
+
+.fave__body {
+    font-family:'Source Sans Pro'; 
+    font-size: 14px;
+    margin:0px;
+    line-height: 25px;
+    
+}
+
+.fave__title{
+    margin: 0px;
+    font-family: 'Open Sans';
+}
+
