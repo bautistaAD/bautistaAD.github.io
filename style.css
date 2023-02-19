@@ -1,0 +1,38 @@
+/*defaults*/
+html {
+    display: block;
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0px;
+    position: relative;
+    height: 700px;
+}
+
+.body-contents {
+    margin: 0px;
+    background-color: #283316;
+    height: 700px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    
+}
+
+.body-contents-text {
+    width: 500px;
+    padding: 50px;
+}
+
+.picture {
+    height: 550px; 
+    width: 400px;
+
+    background-image: url("picture.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
