@@ -64,3 +64,8 @@ body {
     line-height: 25px;
     
 }
+
+.fave__title{
+    margin: 0px;
+    font-family: 'Open Sans';
+}
